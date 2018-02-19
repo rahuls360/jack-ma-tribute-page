@@ -1,0 +1,26 @@
+* {
+  font-family: 'Roboto', 'sans-serif';
+}
+
+p{
+  font-weight: bold;
+  color: orange;
+}
+img {
+  margin: 10px 0px 10px 0px;
+}
+.top-spacing{
+  margin-top:10px;
+}
+h3{
+  margin-top: 10px;
+}
+.content-div {
+  padding: 20px;
+}
+.boxx {
+  border: 5px solid black;
+  width: 80%;
+  margin: 0 auto;
+  background-color: LIGHTCYAN;
+}
